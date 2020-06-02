@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( false );
+		# test local edit
     }
 }
